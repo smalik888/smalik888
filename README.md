@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smalik888
--  I'm first year engeniring student
+-  I'm first year btech student
 - 
 
 
