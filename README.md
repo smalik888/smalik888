@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smalik888
--  I'm first year btech student
+-  I'm. btech student
 -  Python c c++
 
 
